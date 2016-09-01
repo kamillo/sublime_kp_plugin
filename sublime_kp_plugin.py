@@ -7,7 +7,7 @@ import sublime, sublime_plugin
 
 class KpEventListener(sublime_plugin.EventListener):
 	def on_load(self, view):
-		if (isKpFile(view)):
+		if (self.isKpFile(view)):
 			view.run_command("reopen", {"encoding": "Central European (ISO 8859-2)" })
 
 	def on_pre_save(self, view):
