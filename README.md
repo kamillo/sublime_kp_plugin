@@ -24,3 +24,10 @@ Done :+1:
     - Linux: ~/.Sublime Text 3/Packages/ or ~/.config/sublime-text-3/Packages
 
 2. clone this repo
+
+## License
+Licensed under WTFPL
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+.
