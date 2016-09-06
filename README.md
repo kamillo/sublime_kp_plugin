@@ -1,5 +1,5 @@
 # Super simple KP plugin for Sublime Text 3.
-This plugins opens all *.kp files with the only right latin2 (ISO 8859-2) encoding. Suprisengly it saves them automagically with latin2 as well :tada:.
+This plugin opens all *.kp files with the only right latin2 (ISO 8859-2) encoding. Suprisengly it saves them automagically with latin2 as well :tada:.
 
 ## How to install
 ### Using Package Control
