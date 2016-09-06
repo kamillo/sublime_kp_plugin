@@ -8,7 +8,7 @@ This plugins opens all *.kp files with the only right latin2 (ISO 8859-2) encodi
 2. Add custom repository: 
  - Hit ``` Ctrl + Shift + P ``` to start Command Pallete
  - Search for ```Package Control: Add Repository```, hit Enter
- - Enter the following URL: https://gist.github.com/kamillo/ea69223adebdd84e938f58ac694cab7c#file-repository-json
+ - Enter the following URL: https://gist.githubusercontent.com/kamillo/ea69223adebdd84e938f58ac694cab7c/raw/86877cb21d43cdd39f250c568b4a1d848c1a3cb8/repository.json
 3. Install 7bulls KP
  - Hit ``` Ctrl + Shift + P ``` to start Command Pallete
  - Search for ```Package Control: Install Package```, hit Enter
